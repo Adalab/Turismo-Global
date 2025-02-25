@@ -5,11 +5,11 @@ Destination,Start date,End date,Duration (days),Traveler name,Traveler age,Trave
 "Japan, Tokyo",2023-09-10,2023-09-17,7,Kim Nguyen,26,Female,Vietnamese,Airbnb,700,Train,200
 "France, Paris",2023-10-05,2023-10-10,5,Michael Brown,42,Male,USA,Hotel,1500,Flight,800
 "Brazil, Rio de Janeiro",2024-01-05,2024-01-12,7,Lucas Santos,25,Male,Brazilian,Airbnb,900,Flight,600
-"Netherlands, Amsterdam",2024-02-14,2024-02-21,7,Laura Janssen,31,Female,German,Hotel,1200,Train,200
+"Netherlands, Amsterdam",2024-02-14,2024-02-21,7,Laura Janssen,31,Female,Germany,Hotel,1200,Train,200
 "United Arab Emirates, Dubai",2024-03-10,2024-03-17,7,Mohammed Ali,39,Male,Emirati,Resort,2500,Flight,800
 "Mexico, Cancun",2024-04-01,2024-04-08,7,Ana Hernandez,27,Female,Mexican,Hotel,1000,Flight,500
 "Spain, Barcelona",2024-05-15,2024-05-22,7,Carlos Garcia,36,Male,Spanish,Airbnb,800,Train,100
-"Germany, Berlin",2024-07-01,2024-07-10,9,Hans Mueller,48,Male,German,Hotel,1400,Flight,700
+"Germany, Berlin",2024-07-01,2024-07-10,9,Hans Mueller,48,Male,Germany,Hotel,1400,Flight,700
 "Morocco, Marrakech",2024-08-20,2024-08-27,7,Fatima Khouri,26,Female,Moroccan,Riad,600,Flight,400
 "Scotland, Edinburgh",2024-09-05,2024-09-12,7,James MacKenzie,32,Male,Scottish,Hotel,900,Train,150
 "France, Paris",2023-09-01,2023-09-10,9,Sarah Johnson,30,Female,USA,Hotel,900,Plane,400
@@ -43,7 +43,7 @@ Destination,Start date,End date,Duration (days),Traveler name,Traveler age,Trave
 "United States, New York City",2022-09-15,2022-09-22,7,Michael Davis,41,Male,USA,Hotel,1500,Plane,500
 "Thailand, Bangkok",2023-05-01,2023-05-07,6,Nina Patel,29,Female,Indian,Airbnb,500,Bus,50
 "Canada, Vancouver",2022-07-10,2022-07-17,7,Kevin Kim,24,Male,Korean,Hostel,400,Train,150
-"Netherlands, Amsterdam",2023-06-20,2023-06-28,8,Laura van den Berg,31,Female,German,Hotel,1100,Plane,700
+"Netherlands, Amsterdam",2023-06-20,2023-06-28,8,Laura van den Berg,31,Female,Germany,Hotel,1100,Plane,700
 "France, Paris",2023-08-15,2023-08-22,7,Jennifer Nguyen,31,Female,Canadian,Hotel,1200,Train,300
 "Japan, Tokyo",2023-10-10,2023-10-20,10,David Kim,25,Male,USA,Hostel,500,Bus,100
 "United States, New York",2023-12-24,2023-12-31,7,Jessica Wong,28,Female,Canadian,Hotel,1400,Flight,800
@@ -87,24 +87,24 @@ Destination,Start date,End date,Duration (days),Traveler name,Traveler age,Trave
 "Indonesia, Bali",2022-04-15,2022-04-25,11,Putra Wijaya,33,Male,Indonesian,Villa,1500,Car rental,300
 "South Korea, Seoul",2022-05-01,2022-05-10,10,Kim Min-ji,27,Female,Korean,Hotel,800,Train,150
 "France, Paris",2022-06-15,2022-06-20,5,John Smith,35,Male,USA,Hotel,500,Plane,800
-"Japan, Tokyo",2022-09-01,2022-09-10,9,Emily Johnson,28,Female,Canada,Airbnb,400,Train,200
-"Australia, Sydney",2022-11-23,2022-12-02,9,David Lee,45,Male,South Korea,Hostel,200,Plane,1200
+"Japan, Tokyo",2022-09-01,2022-09-10,9,Emily Johnson,28,Female,Canadian,Airbnb,400,Train,200
+"Australia, Sydney",2022-11-23,2022-12-02,9,David Lee,45,Male,South Korean,Hostel,200,Plane,1200
 "United Kingdom, London",2023-02-14,2023-02-19,5,Sarah Brown,37,Female,UK,Hotel,600,Plane,700
 "United States, New York",2023-05-08,2023-05-14,6,Michael Wong,50,Male,Chinese,Airbnb,800,Car rental,300
-"Italy, Rome",2023-08-20,2023-08-27,7,Jessica Chen,31,Female,Taiwan,Hotel,700,Plane,900
+"Italy, Rome",2023-08-20,2023-08-27,7,Jessica Chen,31,Female,Taiwanese,Hotel,700,Plane,900
 "Thailand, Bangkok",2023-11-12,2023-11-20,8,Ken Tanaka,42,Male,Japanese,Hostel,300,Train,100
-"South Africa, Cape Town",2024-01-06,2024-01-14,8,Maria Garcia,27,Female,Spain,Airbnb,500,Plane,1500
-"Brazil, Rio de Janeiro",2024-04-03,2024-04-10,7,Rodrigo Oliveira,33,Male,Brazil,Hotel,900,Car rental,400
-"Indonesia, Bali",2024-07-22,2024-07-28,6,Olivia Kim,29,Female,South Korea,Villa,1200,Plane,1000
+"South Africa, Cape Town",2024-01-06,2024-01-14,8,Maria Garcia,27,Female,Spanish,Airbnb,500,Plane,1500
+"Brazil, Rio de Janeiro",2024-04-03,2024-04-10,7,Rodrigo Oliveira,33,Male,Brazilian,Hotel,900,Car rental,400
+"Indonesia, Bali",2024-07-22,2024-07-28,6,Olivia Kim,29,Female,South Korean,Villa,1200,Plane,1000
 "Netherlands, Amsterdam",2024-10-10,2024-10-17,7,Robert Mueller,41,Male,Germany,Hotel,600,Train,150
 "France, Paris",2022-05-15,2022-05-20,5,John Smith,35,Male,USA,Hotel,1000,Plane,800
-"Japan, Tokyo",2022-09-01,2022-09-10,9,Sarah Lee,28,Female,South Korea,Airbnb,800,Train,500
+"Japan, Tokyo",2022-09-01,2022-09-10,9,Sarah Lee,28,Female,South Korean,Airbnb,800,Train,500
 "United States, New York",2022-06-20,2022-06-25,5,Michael Wong,42,Male,Chinese,Hotel,1200,Car rental,200
-"Indonesia, Bali",2022-08-12,2022-08-20,8,Lisa Chen,30,Female,Taiwan,Resort,1500,Plane,1200
-"Australia, Sydney",2022-07-01,2022-07-10,9,David Kim,26,Male,Canada,Hostel,300,Plane,900
+"Indonesia, Bali",2022-08-12,2022-08-20,8,Lisa Chen,30,Female,Taiwanese,Resort,1500,Plane,1200
+"Australia, Sydney",2022-07-01,2022-07-10,9,David Kim,26,Male,Canadian,Hostel,300,Plane,900
 "United Kingdom, London",2022-06-10,2022-06-15,5,Emily Wong,38,Female,UK,Hotel,900,Train,150
 "Thailand, Phuket",2022-09-05,2022-09-12,7,Mark Tan,45,Male,Singapore,Villa,2000,Plane,700
-"Italy, Rome",2022-05-01,2022-05-08,7,Emma Lee,31,Female,Italy,Hotel,1100,Train,250
+"Italy, Rome",2022-05-01,2022-05-08,7,Emma Lee,31,Female,Italian,Hotel,1100,Train,250
 "Greece, Santorini",2022-07-15,2022-07-22,7,George Chen,27,Male,Greece,Airbnb,1000,Ferry,150
 "United Arab Emirates, Dubai",2022-08-25,2022-08-30,5,Sophia Kim,29,Female,Emirati,Hotel,1500,Car rental,300
 "Cambodia, Phnom Penh",2022-09-10,2022-09-15,5,Alex Ng,33,Male,Cambodia,Hostel,200,Plane,500
