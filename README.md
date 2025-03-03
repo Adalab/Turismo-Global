@@ -51,9 +51,9 @@ Creación de dashboards y visualizaciones interactivas.
 
 
 📌 Dato curioso: Los viajeros que prefieren hospedarse en villas y resorts tienden a prolongar sus estadías en comparación con los que eligen hoteles y hostales.
-![Gráfico de análisis](imagenes/1.png)
-![Gráfico de análisis](imagenes/2.png)
-![Gráfico de análisis](imagenes/3.png)
+![Gráfico de análisis](./img/1.png)
+![Gráfico de análisis](./img/2.png)
+![Gráfico de análisis](./img/3.png)
 
 🏆 Entregables
 
