@@ -51,10 +51,10 @@ Creación de dashboards y visualizaciones interactivas.
 
 
 📌 Dato curioso: Los viajeros que prefieren hospedarse en villas y resorts tienden a prolongar sus estadías en comparación con los que eligen hoteles y hostales.
-![Gráfico de análisis](imagenes/Travelers.png)
-![Gráfico de análisis](imagenes/Transport.png)
-![Gráfico de análisis](imagenes/Accommodation.png)
-![Gráfico de análisis](imagenes/Map.png)
+![Gráfico de análisis](imagenes/1.png)
+![Gráfico de análisis](imagenes/2.png)
+![Gráfico de análisis](imagenes/3.png)
+
 🏆 Entregables
 
 📂 Código en Python optimizado para la manipulación y limpieza de datos.
